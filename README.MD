@@ -1,7 +1,7 @@
 # **OKCupid Gender Prediction**
 
 ## **Project Overview**
-This project aims to predict the gender of users from the OKCupid dataset using machine learning models. The dataset includes demographic, lifestyle, and preference-related features. The analysis explores various classification models to determine the best-performing approach.
+This project aims to predict the gender of users from the OKCupid dataset using machine learning models. The dataset includes demographic, lifestyle, and preference-related features. The analysis explores various classification models to determine the best-performing approach. You can find the dataset used compressed in the 'profiles.zip' file.
 
 ## **Dataset**
 The dataset was sourced from the web and contains the following features:
